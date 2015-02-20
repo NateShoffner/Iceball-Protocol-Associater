@@ -1,0 +1,4 @@
+# Iceball Protocol Associater
+Small utility for managing Iceball protocol association on Windows
+
+Requires UAC elevation.
